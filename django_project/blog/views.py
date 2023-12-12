@@ -21,7 +21,14 @@ posts = [
         'title': 'Third Blog Post',
         'content': 'Content for the third post',
         'date_posted': '12/12/2023'
-    }
+    },
+
+    {
+        'author': 'Marc',
+        'title': 'Fourth Blog Post',
+        'content': 'Content for the fourth post',
+        'date_posted': '12/12/2023'
+    },
 ]
 
 # Create your views here.
